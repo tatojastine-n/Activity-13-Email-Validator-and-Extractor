@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Email Validator and Extractor\bin\Debug\Email Validator and Extractor.exe.config
+C:\Users\HP\source\repos\Email Validator and Extractor\bin\Debug\Email Validator and Extractor.exe
+C:\Users\HP\source\repos\Email Validator and Extractor\bin\Debug\Email Validator and Extractor.pdb
+C:\Users\HP\source\repos\Email Validator and Extractor\obj\Debug\Email Validator and Extractor.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Email Validator and Extractor\obj\Debug\Email Validator and Extractor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Email Validator and Extractor\obj\Debug\Email Validator and Extractor.exe
+C:\Users\HP\source\repos\Email Validator and Extractor\obj\Debug\Email Validator and Extractor.pdb
